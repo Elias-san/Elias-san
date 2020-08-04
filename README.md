@@ -1,16 +1,29 @@
-### Hola 👋
+h2> Hola! Soy Elías</h2>
 
-<!--
-**Elias-san/Elias-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 Acerca de mi </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Soy un apasionado de la tecnología y por lo tanto me interesa una empresa donde exista
+la oportunidad de aprendizaje constante, crecimiento profesional y buen clima labaoral.
+Me gustan las areas de tecnología que me permitan aplicar mis conocimientos adquiridos, los cuales contantemente actualizo.
+- 🎓 &nbsp; Estudios: Programación Web Full Stack, Digital House.
+- 🎓 &nbsp; Universidad de Belgrano: Tecnicatura en Comercialización.
+- 💼 &nbsp; Trbajo: Full Stack Trainee/Marketing digital, Desarrollos Vip.
+- 🌱 &nbsp; Aprendizaje:
+- ✍️ &nbsp; Objetivos: campacitación en GCP/AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp;  | Java |
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Express | ReactJS
+- 🛢 &nbsp; MySQL | Firebase
+- 🔧 &nbsp; Git | Markdown | Selenium | 
+- 🖥 &nbsp; Illustrator| Photoshop | AdobeXD |
+
+<br/>
+
+<h3> 🤝🏻 Contacto </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/elias-san-martin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+</p>
+
