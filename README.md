@@ -18,11 +18,3 @@ Me gustan las areas de tecnología que me permitan aplicar mis conocimientos adq
 - 🔧 &nbsp; Git | Markdown | Selenium | 
 - 🖥 &nbsp; Illustrator| Photoshop | AdobeXD |
 
-<br/>
-
-<h3> 🤝🏻 Contacto </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/elias-san-martin/"></a>
-</p>
-
