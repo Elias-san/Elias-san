@@ -23,6 +23,6 @@ Me gustan las areas de tecnología que me permitan aplicar mis conocimientos adq
 <h3> 🤝🏻 Contacto </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/elias-san-martin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/elias-san-martin/"></a>
 </p>
 
