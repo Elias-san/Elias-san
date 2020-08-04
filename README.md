@@ -7,8 +7,7 @@ la oportunidad de aprendizaje constante, crecimiento profesional y buen clima la
 Me gustan las areas de tecnología que me permitan aplicar mis conocimientos adquiridos, los cuales contantemente actualizo.
 - 🎓 &nbsp; Estudios: Programación Web Full Stack, Digital House.
 - 🎓 &nbsp; Universidad de Belgrano: Tecnicatura en Comercialización.
-- 💼 &nbsp; Trbajo: Full Stack Trainee/Marketing digital, Desarrollos Vip.
-- 🌱 &nbsp; Aprendizaje:
+- 💼 &nbsp; Trabajo: Full Stack Trainee/Marketing digital, Desarrollos Vip.
 - ✍️ &nbsp; Objetivos: campacitación en GCP/AWS.
 
 <h3>🛠 Tech Stack</h3>
