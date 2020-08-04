@@ -1,4 +1,4 @@
-h2> Hola! Soy Elías</h2>
+<h2> Hola! Soy Elías San Martín</h2>
 
 <h3> 👨🏻‍💻 Acerca de mi </h3>
 
