@@ -6,6 +6,8 @@
 la oportunidad de aprendizaje constante, crecimiento profesional y buen clima labaoral.
 Me gustan las areas de tecnología que me permitan aplicar mis conocimientos adquiridos, los cuales contantemente actualizo.
 - 🎓 &nbsp; Estudios: Programación Web Full Stack, Digital House.
+- 🎓 &nbsp; Estudios: Programación Web Full Stack Python, Programa Codo a Codo.
+      (Agosto / Diciembre 2020)
 - 🎓 &nbsp; Universidad de Belgrano: Tecnicatura en Comercialización.
 - 💼 &nbsp; Trabajo: Full Stack Trainee/Marketing digital, Desarrollos Vip.
 - ✍️ &nbsp; Objetivos: campacitación en GCP/AWS.
@@ -17,4 +19,5 @@ Me gustan las areas de tecnología que me permitan aplicar mis conocimientos adq
 - 🛢 &nbsp; MySQL | Firebase
 - 🔧 &nbsp; Git | Markdown | Selenium | 
 - 🖥 &nbsp; Illustrator| Photoshop | AdobeXD |
+
 
