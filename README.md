@@ -9,8 +9,8 @@ Me gustan las areas de tecnología que me permitan aplicar mis conocimientos adq
 - 🎓 &nbsp; Estudios: Programación Web Full Stack Python, Programa Codo a Codo.
       (Agosto / Diciembre 2020)
 - 🎓 &nbsp; Universidad de Belgrano: Tecnicatura en Comercialización.
-- 💼 &nbsp; Trabajo: Full Stack Trainee/Marketing digital, Desarrollos Vip.
-- ✍️ &nbsp; Objetivos: campacitación en GCP/AWS.
+- 💼 &nbsp; Trabajo: Full Stack
+
 
 <h3>🛠 Tech Stack</h3>
 
